@@ -1,0 +1,36 @@
+# Seaborn common parameters
+# .15 = dark_gray
+# .8 = light_gray
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+xtick.direction: inout
+ytick.direction: inout
+axes.axisbelow: True
+font.family: sans-serif
+grid.linestyle: -
+lines.solid_capstyle: round
+
+# Seaborn darkgrid parameters
+axes.grid: True
+axes.edgecolor: 18c0c4
+axes.linewidth: 0.15
+xtick.major.size: 4.5
+ytick.major.size: 4.5
+xtick.minor.size: 2.5
+ytick.minor.size: 2.5
+
+# from mplcyberpunk
+text.color: 0.85
+axes.labelcolor: 0.85
+xtick.color: 0.85
+ytick.color: 0.85
+grid.color: 2A3459
+
+# Custom
+font.sans-serif: Gotham, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+axes.prop_cycle: cycler('color', ['18c0c4', 'f62196', 'A267F5', 'f3907e', 'ffe46b', 'fefeff'])
+image.cmap: RdPu
+figure.facecolor: 212946
+axes.facecolor: 212946
+savefig.facecolor: 212946
