@@ -14,7 +14,7 @@ lines.solid_capstyle: round
 # Seaborn darkgrid parameters
 axes.grid: True
 axes.edgecolor: 18c0c4
-axes.linewidth: 0.15
+axes.linewidth: 0.5
 xtick.major.size: 4.5
 ytick.major.size: 4.5
 xtick.minor.size: 2.5
