@@ -1,6 +1,6 @@
 # Matplotlib stylesheet: PitayaRemix
-All based on `seaborn-darkgrid` style. To use, simply utilize the following URL:
-```
+All based on the `seaborn-darkgrid` style. To use, simply utilize the following URL:
+```python
 plt.style.use('https://github.com/kaiuki2000/PitayaRemix/raw/main/PitayaRemix.mplstyle')
 ```
 ## Pitaya Remix style
